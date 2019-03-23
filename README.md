@@ -1,4 +1,5 @@
 __Em_cms is current version now deployed on debian.__<br/>
+_(Location on debian now is /home/user/em_cms)_<br/><br/>
 &nbsp;  __*Feature*__<br/><br/>
 &nbsp;  _-Em cms manage categories and shops_<br/>
 ![alt text](https://user-images.githubusercontent.com/31529139/54863439-378fd500-4d7b-11e9-84c5-312b97010869.png)<br/>
